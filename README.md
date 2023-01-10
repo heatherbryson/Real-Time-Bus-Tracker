@@ -4,6 +4,6 @@ This moduele worked with asynchronous code. For this project we got to familiari
 ## How to Run
 Click the "show stops" button to see the bus stops between MiT and Harvard
 
-##Future improvements
+## Future improvements
 Later on I would like to add real time stamps to the stops with stagnent markers.
 
